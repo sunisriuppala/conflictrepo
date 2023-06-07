@@ -1,1 +1,4 @@
 // jenkinsfile comment
+pipeline {
+    // some groovy code
+}
